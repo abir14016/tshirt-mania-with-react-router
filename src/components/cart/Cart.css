@@ -1,0 +1,22 @@
+.cart {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  margin: 10px;
+}
+.cart img {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.cart-info {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+button {
+  cursor: pointer;
+}
